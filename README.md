@@ -3,9 +3,8 @@
 ## Overview
 This project analyzes Superstore sales data using Power BI.
 
-## Files
-- Dashboard/Assignment_21f300261.pbix - Power BI dashboard
-- Dataset/superstore-rawdata-powerBI.xls - Source dataset
+
+- superstore-rawdata-powerBI.xls - Source dataset
 
 ## Insights
 - Sales trends
